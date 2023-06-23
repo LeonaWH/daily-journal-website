@@ -1,0 +1,77 @@
+html {
+  
+    font-family: 'Pathway Extreme', sans-serif;
+   
+  }
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+    color: #05003c !important;
+}
+
+.footer-website {
+	text-align: center;
+	width: 100%;
+    margin-top: 50px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+	color: #05003c;
+ 
+}
+
+.footer-website p {
+	margin-top: 25px;
+	font-size: 12px;
+    color: #05003c;
+    padding: 40px;
+   
+}
+.form-labels{
+    font-weight: 600;
+    font-size: 19px;
+}
+h1{
+    font-weight: bolder;
+    padding-bottom: 30px;
+}
+input{
+    width: 90%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+textarea{
+    width: 90%;
+    
+    border-radius: 5px;
+    margin-bottom: 15px;
+
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+#singleLine{
+     
+    
+    padding: 20px;
+    border: #05003c 1px solid;
+    
+        
+}
+#post-title{
+    font-size: 28px;
+}

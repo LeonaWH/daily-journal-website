@@ -1,0 +1,18 @@
+<%- include('partials/header') -%>
+
+<h1>Compose</h1>
+
+<form class="" action = "/compose" method ="post">
+    <div class="form-group">
+     <label for="postTitle" class="form-labels">Title</label></br>
+     <input class="form-control" type="text" name= "postTitle"></br>
+     <label for="postContent" class="form-labels">Post</label></br>
+     <textarea class="form-control" name="postContent" rows="6" cols="30"></textarea></br>
+
+     <button type="submit" class="btn btn-info btn-lg" name="button">Publish</button>
+    </div>
+</form>
+
+
+
+<%- include('partials/footer') -%>
